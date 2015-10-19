@@ -1,0 +1,1 @@
+This is the baseline repository for a AngularJS & Django course.
